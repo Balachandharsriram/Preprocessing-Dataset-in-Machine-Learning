@@ -48,17 +48,6 @@ It tackles **missing values, outliers, encoding, and scaling**, ensuring your da
 📊 **Data Visualization**
 - Boxplots for outliers.
 - Scatter plots for relationships.
-
----
-
-## 🔥 Screenshots
-
-<p align="center">
-  <img src="screenshots/missingno_bar![Msno data](https://github.com/user-attachments/assets/f720c2e2-1642-4f33-847f-5b605934c2d5)
-.png" width="400" alt="Missingno Bar Plot">
-  <img src="screenshots/boxplot_age.png" width="400" alt="Boxplot of Age">
-</p>
-
 ---
 
 ## 🚀 Getting Started
